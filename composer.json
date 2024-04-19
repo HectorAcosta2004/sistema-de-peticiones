@@ -1,0 +1,7 @@
+{
+    "require": {
+        "laravel/jetstream": "^3.0",
+        "inertiajs/inertia-laravel": "*",
+        "symfony/uid": "*"
+    }
+}
